@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test-sections on Lauffreude Berlin</title>
+    <link>https://lauffreude-berlin.github.io/test-section/</link>
+    <description>Recent content in Test-sections on Lauffreude Berlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 28 Jul 2022 12:02:56 +0200</lastBuildDate><atom:link href="https://lauffreude-berlin.github.io/test-section/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Willkommen</title>
+      <link>https://lauffreude-berlin.github.io/test-section/test/</link>
+      <pubDate>Thu, 28 Jul 2022 12:02:56 +0200</pubDate>
+      
+      <guid>https://lauffreude-berlin.github.io/test-section/test/</guid>
+      <description>Test Herzlich Willkommen bei LaufFreude.Berlin! Laufen kann Medizin und Lebensfreude sein – ganz gleich ob mit einer Lauftherapie oder bei einem Erinnerungslauf.
+Ich biete Ihnen und Dir verschiedene Formen des leistungsfreien Laufens an. Es ist nie zu spät mit dem Laufen zu beginnen. Beim gemeinsamen Laufen an der frischen Luft können Sie und kannst Du Freude empfinden, eine Stärkung des seelischen und körperlichen Wohlbefindens erfahren und präventiv für die eigene Gesundheit sorgen.</description>
+    </item>
+    
+  </channel>
+</rss>
