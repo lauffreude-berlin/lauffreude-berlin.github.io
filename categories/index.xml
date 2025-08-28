@@ -5,6 +5,7 @@
     <link>https://lauffreude-berlin.github.io/categories/</link>
     <description>Recent content in Categories on Lauffreude Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://lauffreude-berlin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <atom:link href="https://lauffreude-berlin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
